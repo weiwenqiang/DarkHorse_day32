@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">day32</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="day32_b1">服务五个生命周期</string>
+    <string name="day32_b2">后台音乐服务</string>
+    <string name="day32_b3">代码配置广播</string>
+    <string name="day32_b4">远程服务</string>
+    <string name="day32_b5">AIDL通道远程服务支付</string>
+    <string name="day32_b6">styles样式和主题</string>
+    <string name="day32_b7"></string>
+    <string name="b1_start">开启服务</string>
+    <string name="b1_stop">关闭服务</string>
+    <string name="b1_bind">绑定服务</string>
+    <string name="b1_unbind">解绑服务</string>
+    <string name="b1_banzheng">用Binder办证</string>
+    <string name="b2_play">播放音乐</string>
+    <string name="b2_pause">暂停音乐</string>
+    <string name="b3_start">开启服务并注册广播</string>
+    <string name="b3_stop">关闭服务并解绑广播</string>
+    <string name="b4_startremote">La fédération de russie</string>
+    <string name="b4_stopremote">意大利</string>
+    <string name="b4_bindremote">意大利</string>
+    <string name="b4_unbindremote">意大利</string>
+    <string name="b4_remotebanzheng">意大利</string>
+   	<string name="b5_pay">意大利</string>
+    <string name="b6_styles">意大利</string>
+
+</resources>

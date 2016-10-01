@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button
+        android:id="@+id/b4_startremote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b4_startremote" />
+
+    <Button
+        android:id="@+id/b4_stopremote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b4_stopremote" />
+    
+    <Button
+        android:id="@+id/b4_bindremote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b4_bindremote" />
+    
+    <Button
+        android:id="@+id/b4_unbindremote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b4_unbindremote" />
+    
+    <Button
+        android:id="@+id/b4_remotebanzheng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b4_remotebanzheng" />
+
+</LinearLayout>
